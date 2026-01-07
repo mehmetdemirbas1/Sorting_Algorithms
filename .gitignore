@@ -1,0 +1,12 @@
+# VS Code ayar klasörü
+.vscode/
+
+# Windows çalıştırılabilir dosyaları
+*.exe
+
+# Derleme çıktıları (object dosyaları vb.)
+*.o
+*.obj
+
+# Linux/Mac çıktıları (olur da başka sistemde derlenirse)
+*.out
